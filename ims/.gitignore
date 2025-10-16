@@ -1,0 +1,54 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# ===== Virtual Environments =====
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ===== IDE / Editor Files =====
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===== System Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+logs/
+nohup.out
+
+# ===== Temporary =====
+tmp/
+temp/
+.cache/
+*.bak
+*.swp
+
+# ===== Build / Distribution =====
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ===== Reports =====
+*.csv
+*.xlsx
+*.pdf
+
+# ===== Test Artifacts =====
+.coverage
+htmlcov/
+pytest_cache/

@@ -1,0 +1,18 @@
+# ===== Core Dependencies =====
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# ===== Optional (for future web API support) =====
+Flask>=3.0.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# ===== Utilities =====
+pandas>=2.0.0
+pytest>=8.0.0
+
+# ===== Date and Time =====
+python-dateutil>=2.9.0
+
+# ===== CSV and File Handling =====
+openpyxl>=3.1.0

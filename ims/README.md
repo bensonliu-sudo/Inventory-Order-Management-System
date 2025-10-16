@@ -30,7 +30,7 @@ Subscription System
 ⸻
 
 System Architecture
-
+```text
 IMS/
 ├── main.py                        # Entry point for system demonstration
 └── app/
@@ -51,7 +51,7 @@ IMS/
     │   └── subscription_service.py
     └── utils/
         └── csv_utils.py           # CSV export utilities
-
+```
 Layered Design
 	•	Models – Define data entities.
 	•	Services – Implement business logic (e.g., order handling, payment processing).

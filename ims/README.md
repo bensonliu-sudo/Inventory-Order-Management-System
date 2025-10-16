@@ -61,7 +61,7 @@ Layered Design
 
 ⸻
 
-⚙️ How to Run
+How to Run
 
 1️⃣ Clone the repository
 
@@ -96,7 +96,7 @@ python main.py
 
 ⸻
 
-🧪 Independent Module Testing
+Independent Module Testing
 
 Each core service module can be tested separately:
 

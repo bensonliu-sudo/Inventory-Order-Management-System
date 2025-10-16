@@ -128,17 +128,6 @@ Future Extensions
 
 ⸻
 
-Author
-
-Bingcheng Liu
-Master of Computer Science (AI) @ UNSW
-Focus: AI Applications / Software Engineering / FinTech
-
-GitHub: https://github.com/
-Email: your_email@example.com
-
-⸻
-
 License
 
 This project is for demonstration purposes only.
